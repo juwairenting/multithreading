@@ -30,6 +30,7 @@ import java.util.concurrent.*;
  *
  * @author Z.B. Celik <celik.berkay@gmail.com>
  */
+/*这是develop分支，要通过右键遴选到master分支*/
 public class App {
 /*project setting 加上输出out路径、选default而非1.9什么*/
 /*modules setting设置source path应当是src父目录*/
